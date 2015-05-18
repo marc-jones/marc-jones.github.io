@@ -6,8 +6,18 @@
     <description>Recent content on Hairy Thinker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2015 16:36:38 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2015 16:42:21 +0100</lastBuildDate>
     <atom:link href="http://hairythinker.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>quibble</title>
+      <link>http://hairythinker.com/quibble/</link>
+      <pubDate>Mon, 18 May 2015 16:42:21 +0100</pubDate>
+      
+      <guid>http://hairythinker.com/quibble/</guid>
+      <description>&lt;p&gt;Empty post&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>test_mctest</title>
