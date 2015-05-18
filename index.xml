@@ -6,8 +6,20 @@
     <description>Recent content on Hairy Thinker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2015 16:18:30 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2015 16:36:38 +0100</lastBuildDate>
     <atom:link href="http://hairythinker.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test_mctest</title>
+      <link>http://hairythinker.com/test_mctest/</link>
+      <pubDate>Mon, 18 May 2015 16:36:38 +0100</pubDate>
+      
+      <guid>http://hairythinker.com/test_mctest/</guid>
+      <description>
+
+&lt;h3 id=&#34;isn-t-markdown-fun:9d626b851327c6b7ce69a6e92ba95f5f&#34;&gt;Isn&amp;rsquo;t markdown fun!&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>test_post3</title>
