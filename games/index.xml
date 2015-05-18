@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hairy Thinker</title>
-    <link>http://hairythinker.com/</link>
-    <description>Recent content on Hairy Thinker</description>
+    <title>Games on Hairy Thinker</title>
+    <link>http://hairythinker.com/games/</link>
+    <description>Recent content in Games on Hairy Thinker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2015 16:42:21 +0100</lastBuildDate>
-    <atom:link href="http://hairythinker.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>quibble</title>
-      <link>http://hairythinker.com/personal/quibble/</link>
-      <pubDate>Mon, 18 May 2015 16:42:21 +0100</pubDate>
-      
-      <guid>http://hairythinker.com/personal/quibble/</guid>
-      <description>&lt;p&gt;Empty post&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 18 May 2015 16:36:38 +0100</lastBuildDate>
+    <atom:link href="http://hairythinker.com/games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test_mctest</title>
@@ -40,20 +30,6 @@
       <description>
 
 &lt;h2 id=&#34;i-m-still-playing-with-the-workflow:12341e5fb0a9aa8b6580c70ffa78dcb7&#34;&gt;I&amp;rsquo;m still playing with the workflow&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>journal_club</title>
-      <link>http://hairythinker.com/science/journal_club/</link>
-      <pubDate>Mon, 18 May 2015 15:04:05 +0100</pubDate>
-      
-      <guid>http://hairythinker.com/science/journal_club/</guid>
-      <description>
-
-&lt;h1 id=&#34;another-test-post:55fbf1a02187d39fe62516b0828729d1&#34;&gt;Another Test Post&lt;/h1&gt;
-
-&lt;p&gt;I wanted to see what having two posts looks like&lt;/p&gt;
 </description>
     </item>
     
