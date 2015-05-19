@@ -6,13 +6,13 @@
     <description>Recent content in Arabidopsis Thaliana on Hairy Thinker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2015 11:07:31 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2015 16:52:31 +0100</lastBuildDate>
     <atom:link href="http://hairythinker.com/species/arabidopsis-thaliana/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Paper Summary: Functional alleles of the flowering time regulator *FRIGIDA* in the *Brassica oleracea* genome</title>
       <link>http://hairythinker.com/science/2015/05/irwin-et-al-2012/</link>
-      <pubDate>Tue, 19 May 2015 11:07:31 +0100</pubDate>
+      <pubDate>Tue, 19 May 2015 16:52:31 +0100</pubDate>
       
       <guid>http://hairythinker.com/science/2015/05/irwin-et-al-2012/</guid>
       <description>
@@ -22,6 +22,7 @@
 &lt;ul&gt;
 &lt;li&gt;FRIGIDA - &lt;em&gt;FRI&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;FLOWERING LOCUS C - &lt;em&gt;FLC&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;FE SUPEROXIDE DISMUTASE 2 - &lt;em&gt;FSD2&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;introduction:12cd263327f6afdfead3429328b99f0d&#34;&gt;Introduction&lt;/h3&gt;
@@ -36,10 +37,10 @@ growth pattern of plants.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;FRI&lt;/em&gt; gene expression represses flowering by promoting expression of &lt;em&gt;FLC&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;results:12cd263327f6afdfead3429328b99f0d&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id=&#34;notes:12cd263327f6afdfead3429328b99f0d&#34;&gt;Notes&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Identified 2 &lt;em&gt;FRI&lt;/em&gt; genes in &lt;em&gt;Brassica oleracea&lt;/em&gt;: &lt;em&gt;BolC.FRI.a&lt;/em&gt; and
+&lt;li&gt;2 &lt;em&gt;FRI&lt;/em&gt; genes identified in &lt;em&gt;Brassica oleracea&lt;/em&gt;: &lt;em&gt;BolC.FRI.a&lt;/em&gt; and
 &lt;em&gt;BolC.FRI.b&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;Sequence analysis of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; &lt;em&gt;FRI&lt;/em&gt; and its orthologues in
 other species has identified a conserved region of 37 amino acids in the
@@ -52,7 +53,18 @@ to chromosome C9.&lt;/li&gt;
 &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; chromosome 5, while &lt;em&gt;FRI&lt;/em&gt; is located at the top of
 &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; chromosome 4.&lt;/li&gt;
 &lt;li&gt;The orthologue of &lt;em&gt;FRI&lt;/em&gt; in &lt;em&gt;Arabidopsis lyrata&lt;/em&gt; is found in a region of the
-genome which is homologous to &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; chromosome 5&lt;/li&gt;
+genome which is homologous to &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; chromosome 5.&lt;/li&gt;
+&lt;li&gt;Within this region is an annotated gene model (AT5G51090), which shows
+homology to &lt;em&gt;FRI&lt;/em&gt; and is likely to be a pseudogene, and &lt;em&gt;FSD2&lt;/em&gt; (AT5G51100).&lt;/li&gt;
+&lt;li&gt;Propose that a recombination event relocated &lt;em&gt;FRI&lt;/em&gt; in &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;
+from chromosome 5 to chromosome 4.&lt;/li&gt;
+&lt;li&gt;This event left a non-functional remnant of &lt;em&gt;FRI&lt;/em&gt; in a genomic position on
+chromosome 5 which is syntenic with &lt;em&gt;FRI&lt;/em&gt; in other Brassicaceae.&lt;/li&gt;
+&lt;li&gt;Across 55 varieties of &lt;em&gt;Brassica oleracea&lt;/em&gt;, 2 common alleles were identified
+for &lt;em&gt;BolC.FRI.a&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Both common alleles of &lt;em&gt;BolC.FRI.a&lt;/em&gt; were able to complement &lt;em&gt;Arabidopsis
+thaliana&lt;/em&gt; plants which were mutant in &lt;em&gt;FRI&lt;/em&gt;, indicating that both are
+functional&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
