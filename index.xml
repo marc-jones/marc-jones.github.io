@@ -6,8 +6,56 @@
     <description>Recent content on Hairy Thinker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2015 16:42:21 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2015 11:07:31 +0100</lastBuildDate>
     <atom:link href="http://hairythinker.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paper Summary: Functional alleles of the flowering time regulator *FRIGIDA* in the *Brassica oleracea* genome</title>
+      <link>http://hairythinker.com/science/2015/05/irwin-et-al-2012/</link>
+      <pubDate>Tue, 19 May 2015 11:07:31 +0100</pubDate>
+      
+      <guid>http://hairythinker.com/science/2015/05/irwin-et-al-2012/</guid>
+      <description>
+
+&lt;h3 id=&#34;abbreviations:12cd263327f6afdfead3429328b99f0d&#34;&gt;Abbreviations&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FRIGIDA - &lt;em&gt;FRI&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;FLOWERING LOCUS C - &lt;em&gt;FLC&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;introduction:12cd263327f6afdfead3429328b99f0d&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vernalization requirement determines the life history strategy which plants
+adopt.&lt;/li&gt;
+&lt;li&gt;Flowering time influences the fitness of plants by affecting when plants set
+seed.&lt;/li&gt;
+&lt;li&gt;Flowering time also affects a number of agromonic traits by influencing the
+growth pattern of plants.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;FRI&lt;/em&gt; gene expression represses flowering by promoting expression of &lt;em&gt;FLC&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;results:12cd263327f6afdfead3429328b99f0d&#34;&gt;Results&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Identified 2 &lt;em&gt;FRI&lt;/em&gt; genes in &lt;em&gt;Brassica oleracea&lt;/em&gt;: &lt;em&gt;BolC.FRI.a&lt;/em&gt; and
+&lt;em&gt;BolC.FRI.b&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Sequence analysis of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; &lt;em&gt;FRI&lt;/em&gt; and its orthologues in
+other species has identified a conserved region of 37 amino acids in the
+N-terminal region of the protein.&lt;/li&gt;
+&lt;li&gt;Both &lt;em&gt;BolC.FRI.a&lt;/em&gt; and &lt;em&gt;BolC.FRI.b&lt;/em&gt; contain this conserved region, providing
+evidence for them being &lt;em&gt;FRI&lt;/em&gt; orthologues.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BolC.FRI.a&lt;/em&gt; maps to &lt;em&gt;Brassica oleracea&lt;/em&gt; chromosome C3 and &lt;em&gt;BolC.FRI.b&lt;/em&gt; maps
+to chromosome C9.&lt;/li&gt;
+&lt;li&gt;The two regions where &lt;em&gt;BolC.FRI.a&lt;/em&gt; and &lt;em&gt;BolC.FRI.b&lt;/em&gt; map are syntenic with
+&lt;em&gt;Arabidopsis thaliana&lt;/em&gt; chromosome 5, while &lt;em&gt;FRI&lt;/em&gt; is located at the top of
+&lt;em&gt;Arabidopsis thaliana&lt;/em&gt; chromosome 4.&lt;/li&gt;
+&lt;li&gt;The orthologue of &lt;em&gt;FRI&lt;/em&gt; in &lt;em&gt;Arabidopsis lyrata&lt;/em&gt; is found in a region of the
+genome which is homologous to &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; chromosome 5&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>quibble</title>
@@ -16,44 +64,6 @@
       
       <guid>http://hairythinker.com/personal/quibble/</guid>
       <description>&lt;p&gt;Empty post&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test_mctest</title>
-      <link>http://hairythinker.com/games/test_mctest/</link>
-      <pubDate>Mon, 18 May 2015 16:36:38 +0100</pubDate>
-      
-      <guid>http://hairythinker.com/games/test_mctest/</guid>
-      <description>
-
-&lt;h3 id=&#34;isn-t-markdown-fun:9d626b851327c6b7ce69a6e92ba95f5f&#34;&gt;Isn&amp;rsquo;t markdown fun!&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test_post3</title>
-      <link>http://hairythinker.com/games/test_post3/</link>
-      <pubDate>Mon, 18 May 2015 16:18:30 +0100</pubDate>
-      
-      <guid>http://hairythinker.com/games/test_post3/</guid>
-      <description>
-
-&lt;h2 id=&#34;i-m-still-playing-with-the-workflow:12341e5fb0a9aa8b6580c70ffa78dcb7&#34;&gt;I&amp;rsquo;m still playing with the workflow&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>journal_club</title>
-      <link>http://hairythinker.com/science/journal_club/</link>
-      <pubDate>Mon, 18 May 2015 15:04:05 +0100</pubDate>
-      
-      <guid>http://hairythinker.com/science/journal_club/</guid>
-      <description>
-
-&lt;h1 id=&#34;another-test-post:55fbf1a02187d39fe62516b0828729d1&#34;&gt;Another Test Post&lt;/h1&gt;
-
-&lt;p&gt;I wanted to see what having two posts looks like&lt;/p&gt;
 </description>
     </item>
     
